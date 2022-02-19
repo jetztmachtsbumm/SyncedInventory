@@ -1,0 +1,10 @@
+name: SyncedInv
+version: '${project.version}'
+main: com.jetztmachtsbumm.syncedinv.SyncedInv
+api-version: 1.18
+authors: [ jetztmachtsbumm ]
+website: https://github.com/jetztmachtsbumm/SyncedInventory
+
+commands:
+  syncedinv:
+    aliases: [si]
